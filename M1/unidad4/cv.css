@@ -1,0 +1,58 @@
+
+h1{
+    background: lightsalmon;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black; font-weight: bold;
+    text-align: center;
+
+}
+img{
+    margin-left: 530px;
+   
+}
+
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+  
+}
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+}
+h4{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+ol:hover{
+    background-color: lightsalmon;
+    color: darkblue;
+    cursor: pointer;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h5{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p{
+    color: darkblue;
+    font-family: sans-serif;
+    text-align: justify;
+    
+}
+.destacados{
+    color: dodgerblue;
+}
+#caja{
+   font-variant: small-caps;
+}
+#caja:hover{
+    background-color: lightsalmon;
+    color: darkblue;
+    cursor: pointer;
+}
+a{
+    font-size: 20px;
+    color: orangered;
+}
+a:hover{
+    color: dodgerblue;
+}
