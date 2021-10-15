@@ -1,0 +1,80 @@
+@media screen and (max-width: 800px) {
+    body{
+        background-color: dimgrey;
+        column-count: 1;
+    }
+    
+}
+h1{
+    background: lightsalmon;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black; font-weight: bold;
+    text-align: center;
+
+}
+img{
+    margin-left: 530px;
+   
+}
+.imagen img{
+    border-radius: 157px 157px 157px 157px;
+-webkit-border-radius: 157px 157px 157px 157px;
+-moz-border-radius: 157px 157px 157px 157px;
+}
+
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+  
+}
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+}
+h4{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+ol:hover{
+    background-color: lightsalmon;
+    color: darkblue;
+    cursor: pointer;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h5{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p{
+    color: darkblue;
+    font-family: sans-serif;
+    text-align: justify;
+    
+}
+.destacados{
+    color: dodgerblue;
+}
+#caja{
+   font-variant: small-caps;
+   box-shadow: -15px 20px 15px;
+   font-family: 'Crete Round', serif;
+   
+}
+#caja:hover{
+    background-color: lightsalmon;
+    color: darkblue;
+    cursor: pointer;
+}
+a{
+    font-size: 20px;
+    color: orangered;
+}
+a:hover{
+    color: dodgerblue;
+}
+.texto{
+    background-color: darkorange;
+    column-count: 3;
+    border-radius: 10px 15px 10px 15px;
+    margin-right: 12px;
+    margin-left: 12px;
+    font-family: 'Merriweather', serif;
+}
